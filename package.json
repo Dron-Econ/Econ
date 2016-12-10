@@ -1,0 +1,19 @@
+{
+  "name": "drone-ecommerce-site",
+  "version": "1.0.0",
+  "description": "### How to contribute!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhawes/Econ.git"
+  },
+  "author": "Lucas Hawes, Jerry Maxey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhawes/Econ/issues"
+  },
+  "homepage": "https://github.com/lhawes/Econ#readme"
+}
