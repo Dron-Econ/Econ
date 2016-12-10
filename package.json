@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/lhawes/Econ/issues"
   },
-  "homepage": "https://github.com/lhawes/Econ#readme"
+  "homepage": "https://github.com/lhawes/Econ#readme",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "express": "^4.14.0",
+    "node": "0.0.0"
+  }
 }
